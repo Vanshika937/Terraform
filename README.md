@@ -1,2 +1,2 @@
 # Terraform
-##Working with multi cloud enviroments using terraform
+## Multi-cloud provisioning using Terraform
